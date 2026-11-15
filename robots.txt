@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rugstextureshub.vercel.app/sitemap.xml
