@@ -102,7 +102,7 @@
     {
         "path": "/authors/marie-e-tyler/index.html",
         "type": "file",
-        "md5": "165e0167c299ab842e150b56ddd65aa3"
+        "md5": "4aa0ff15c4d872fef9d12e8b9df3c7b6"
     },
     {
         "path": "authors/marie-e-tyler/page",
@@ -117,7 +117,7 @@
     {
         "path": "/authors/marie-e-tyler/page/2/index.html",
         "type": "file",
-        "md5": "9f988d331637bc479c6c76cf626d2f8b"
+        "md5": "ffa17bd62c5051f96e1866e385b56092"
     },
     {
         "path": "authors/marie-e-tyler/page/3",
@@ -127,7 +127,7 @@
     {
         "path": "/authors/marie-e-tyler/page/3/index.html",
         "type": "file",
-        "md5": "d37fa816b6d15ee957aeb2ce7e659d89"
+        "md5": "a867d820164a14d6ed94a9f309bcfe76"
     },
     {
         "path": "bringing-warmth-and-texture-into-your-home-with-cozy-decorative-textiles",
@@ -137,7 +137,7 @@
     {
         "path": "/bringing-warmth-and-texture-into-your-home-with-cozy-decorative-textiles/index.html",
         "type": "file",
-        "md5": "f989c739247913ae398d2df2732be6f1"
+        "md5": "992a9f7e241caa75b2eebf53e94a4ce8"
     },
     {
         "path": "comfortable-floor-seating-ideas-for-a-stylish-and-welcoming-home",
@@ -147,7 +147,7 @@
     {
         "path": "/comfortable-floor-seating-ideas-for-a-stylish-and-welcoming-home/index.html",
         "type": "file",
-        "md5": "6a8aae652508bc704231ffb7330e31e9"
+        "md5": "fd4864dc9f47b52300ed66a552c33785"
     },
     {
         "path": "contact-us",
@@ -187,7 +187,7 @@
     {
         "path": "/creative-seating-ideas-to-make-your-home-more-comfortable-and-inviting/index.html",
         "type": "file",
-        "md5": "2466e0ad3aaccc6540ab1e1a9b7eea48"
+        "md5": "088f47df258bf0de334e163d0c4f2cda"
     },
     {
         "path": "elegant-floor-seating-ideas-to-transform-your-home-interior",
@@ -197,7 +197,7 @@
     {
         "path": "/elegant-floor-seating-ideas-to-transform-your-home-interior/index.html",
         "type": "file",
-        "md5": "1f608aa0efe82c07593ce918b63afbcd"
+        "md5": "3386b9153eb1e4fbe03af4da8ca5abf1"
     },
     {
         "path": "elegant-window-treatments-for-a-comfortable-and-stylish-home",
@@ -212,12 +212,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "115677e388fa688597a7d0d72226d964"
+        "md5": "45bb79fc46839692b97f116e000681d2"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "8ad062854904369405d2ec01fb562c15"
+        "md5": "89ea80dd5843384f8affa9c0075f0a17"
     },
     {
         "path": "how-to-create-beautiful-and-functional-window-treatments-for-every-room",
@@ -232,7 +232,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "2478eb2e5d26074286e1096636c2e07a"
+        "md5": "de7d72675366262ed2f9db9195b3bda7"
     },
     {
         "path": "media",
@@ -723,6 +723,86 @@
         "path": "/media/posts/15/responsive/images-2026-11-15T210519.717-xs.jpg",
         "type": "file",
         "md5": "1d0b049c7ec73bb0839c2ac74f345d8d"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/images-2026-11-23T071741.023.jpg",
+        "type": "file",
+        "md5": "902e6819a76da18b190538ab392b709d"
+    },
+    {
+        "path": "/media/posts/16/images-2026-11-23T071750.095.jpg",
+        "type": "file",
+        "md5": "f1e49942ede8bfcd7729e5b0f42c989b"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T071741.023-2xl.jpg",
+        "type": "file",
+        "md5": "55a499ceb72ef8bd4de994e16c17fb26"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T071741.023-lg.jpg",
+        "type": "file",
+        "md5": "55a499ceb72ef8bd4de994e16c17fb26"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T071741.023-md.jpg",
+        "type": "file",
+        "md5": "55a499ceb72ef8bd4de994e16c17fb26"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T071741.023-sm.jpg",
+        "type": "file",
+        "md5": "55a499ceb72ef8bd4de994e16c17fb26"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T071741.023-xl.jpg",
+        "type": "file",
+        "md5": "55a499ceb72ef8bd4de994e16c17fb26"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T071741.023-xs.jpg",
+        "type": "file",
+        "md5": "ed9c22a9919cd3b891a5f9eb240d26fd"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T071750.095-2xl.jpg",
+        "type": "file",
+        "md5": "98f80c571c9eaf2a5122468242b64012"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T071750.095-lg.jpg",
+        "type": "file",
+        "md5": "98f80c571c9eaf2a5122468242b64012"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T071750.095-md.jpg",
+        "type": "file",
+        "md5": "98f80c571c9eaf2a5122468242b64012"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T071750.095-sm.jpg",
+        "type": "file",
+        "md5": "98f80c571c9eaf2a5122468242b64012"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T071750.095-xl.jpg",
+        "type": "file",
+        "md5": "98f80c571c9eaf2a5122468242b64012"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T071750.095-xs.jpg",
+        "type": "file",
+        "md5": "98f80c571c9eaf2a5122468242b64012"
     },
     {
         "path": "media/posts/4",
@@ -1282,7 +1362,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "cc165acf3a8092586ab445125ccccb6e"
+        "md5": "7e06725f2c6b41f98db77928d7029761"
     },
     {
         "path": "page/3",
@@ -1292,7 +1372,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "397016a28d6364f5f4192977d6798b92"
+        "md5": "77799fc10d1908b25193ecb72ee41d12"
     },
     {
         "path": "privacy-policy",
@@ -1312,7 +1392,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "36ac113062b65bb744687003a2c01cd7"
+        "md5": "d1fce6f1921415219d5ac22283a4ff92"
     },
     {
         "path": "sitemap.xsl",
@@ -1342,7 +1422,7 @@
     {
         "path": "/tags/boho-floor-cushions/index.html",
         "type": "file",
-        "md5": "f4e2ac733e4d3455c56efa25da959ea5"
+        "md5": "36a2b5b07a1dd31467b2f87806d01dc8"
     },
     {
         "path": "tags/cable-knit-throw-blankets",
@@ -1397,7 +1477,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "566b22298f80f576bb3e0f1dfdda3b6f"
+        "md5": "2714faa0dc7409248abe186cb87d2b7c"
     },
     {
         "path": "tags/jute-base-rugs",
@@ -1427,7 +1507,7 @@
     {
         "path": "/tags/large-floor-poufs/index.html",
         "type": "file",
-        "md5": "46bb45fe458b4ec09b0f87c3919bedcb"
+        "md5": "6bae4b291ab042e2ca2b3aa703301fb0"
     },
     {
         "path": "tags/layered-area-rugs",
@@ -1498,5 +1578,15 @@
         "path": "/timeless-rug-designs-that-bring-character-and-personality-to-your-home/index.html",
         "type": "file",
         "md5": "710d8fbd50b8da3046cbc3c13a2bf678"
+    },
+    {
+        "path": "transforming-your-living-space-with-comfortable-and-stylish-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transforming-your-living-space-with-comfortable-and-stylish-furniture/index.html",
+        "type": "file",
+        "md5": "3574b8c403862232c86990c77bab32df"
     }
 ]
