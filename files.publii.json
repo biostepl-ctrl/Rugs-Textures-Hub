@@ -15,6 +15,16 @@
         "md5": "76827cfb184a0be3ee43e5f03bc85936"
     },
     {
+        "path": "adding-comfort-and-versatility-to-modern-living-spaces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/adding-comfort-and-versatility-to-modern-living-spaces/index.html",
+        "type": "file",
+        "md5": "becd6f882dd559ae4982aded3e5a7315"
+    },
+    {
         "path": "adding-personality-and-elegance-to-your-home-with-decorative-textiles",
         "type": "directory",
         "md5": false
@@ -102,7 +112,7 @@
     {
         "path": "/authors/marie-e-tyler/index.html",
         "type": "file",
-        "md5": "4aa0ff15c4d872fef9d12e8b9df3c7b6"
+        "md5": "b33889c34a1ae8454ad81b55345e9fab"
     },
     {
         "path": "authors/marie-e-tyler/page",
@@ -117,7 +127,7 @@
     {
         "path": "/authors/marie-e-tyler/page/2/index.html",
         "type": "file",
-        "md5": "ffa17bd62c5051f96e1866e385b56092"
+        "md5": "fd68e9884747e6aa7b60c59b1e122f47"
     },
     {
         "path": "authors/marie-e-tyler/page/3",
@@ -127,7 +137,7 @@
     {
         "path": "/authors/marie-e-tyler/page/3/index.html",
         "type": "file",
-        "md5": "a867d820164a14d6ed94a9f309bcfe76"
+        "md5": "a64664a7fd8e28fd2f7b4dfe31578afc"
     },
     {
         "path": "bringing-warmth-and-texture-into-your-home-with-cozy-decorative-textiles",
@@ -212,12 +222,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "45bb79fc46839692b97f116e000681d2"
+        "md5": "c5bb17398081bbb1d482ce4c1736f7a0"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "89ea80dd5843384f8affa9c0075f0a17"
+        "md5": "d5889bc267477b56a77f945526f19b02"
     },
     {
         "path": "how-to-create-beautiful-and-functional-window-treatments-for-every-room",
@@ -232,7 +242,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "de7d72675366262ed2f9db9195b3bda7"
+        "md5": "9673e41245c1739b5fd2e64ec3e6e6a3"
     },
     {
         "path": "media",
@@ -805,6 +815,51 @@
         "md5": "98f80c571c9eaf2a5122468242b64012"
     },
     {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/images-2026-11-25T215817.821.jpg",
+        "type": "file",
+        "md5": "eca8b0a839995ef9a411f9c5f4ffc427"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T215817.821-2xl.jpg",
+        "type": "file",
+        "md5": "2b66580a091225ffef28de53048cb906"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T215817.821-lg.jpg",
+        "type": "file",
+        "md5": "2b66580a091225ffef28de53048cb906"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T215817.821-md.jpg",
+        "type": "file",
+        "md5": "2b66580a091225ffef28de53048cb906"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T215817.821-sm.jpg",
+        "type": "file",
+        "md5": "2b66580a091225ffef28de53048cb906"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T215817.821-xl.jpg",
+        "type": "file",
+        "md5": "2b66580a091225ffef28de53048cb906"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T215817.821-xs.jpg",
+        "type": "file",
+        "md5": "2b66580a091225ffef28de53048cb906"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1362,7 +1417,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "7e06725f2c6b41f98db77928d7029761"
+        "md5": "a38a0e8be2c53cf5a56f0f4f6e9cefe9"
     },
     {
         "path": "page/3",
@@ -1372,7 +1427,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "77799fc10d1908b25193ecb72ee41d12"
+        "md5": "588ae4d9362b0c28ff1deb1345d9162e"
     },
     {
         "path": "privacy-policy",
@@ -1392,7 +1447,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d1fce6f1921415219d5ac22283a4ff92"
+        "md5": "4d8fd4afd6bb292161c33e49bcfcd6e4"
     },
     {
         "path": "sitemap.xsl",
@@ -1422,7 +1477,7 @@
     {
         "path": "/tags/boho-floor-cushions/index.html",
         "type": "file",
-        "md5": "36a2b5b07a1dd31467b2f87806d01dc8"
+        "md5": "367d938b62d8b705a64b76712ad70b60"
     },
     {
         "path": "tags/cable-knit-throw-blankets",
@@ -1477,7 +1532,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "2714faa0dc7409248abe186cb87d2b7c"
+        "md5": "4bb644a27ebd25f0b110135cd389e941"
     },
     {
         "path": "tags/jute-base-rugs",
@@ -1507,7 +1562,7 @@
     {
         "path": "/tags/large-floor-poufs/index.html",
         "type": "file",
-        "md5": "6bae4b291ab042e2ca2b3aa703301fb0"
+        "md5": "f41059e173f7805de47424f47073ae58"
     },
     {
         "path": "tags/layered-area-rugs",
@@ -1587,6 +1642,6 @@
     {
         "path": "/transforming-your-living-space-with-comfortable-and-stylish-furniture/index.html",
         "type": "file",
-        "md5": "3574b8c403862232c86990c77bab32df"
+        "md5": "ec63af5fac8cbf38214e67c1ae721091"
     }
 ]
